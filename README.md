@@ -1,18 +1,20 @@
-To get this extension working, primarily following two things are required.
+To get this extension working, primarily following three things are required.
 
-*1. Obtain Google API key for URL Shortner. *
+###**1. Obtain Google API key for URL Shortner. **
 
 This extension uses Google URL Shortner API to shorten the URLS. Hence, you need to obtain Google API Key to get this working. 
 Follow the steps on below link to obtain your own key. You need Google API Account for the same. 
 
 https://developers.google.com/maps/documentation/javascript/get-api-key
 
-*2. Insert your API Key in Code *í
-Modify the ìjs/index.js fileî to add your key instead of Keyword ì[Your API Key] on -Line 5.
+
+
+###**2. Insert your API Key in Code**
+Modify the ‚Äújs/index.js file‚Äù to add your key instead of Keyword ‚Äú[Your API Key] on -Line 5.
 
 
 
-*3.Install Microsoft Edge Extension?*
+###**3.Install Microsoft Edge Extension?**
 
 *Enable Extension Developer Features*
 
@@ -20,16 +22,16 @@ Enable extension developer features so that you can install this extension from 
 
 1. Navigate to about:flags in your Microsoft Edge Browser. 
 
-2. Enable the check box against ìEnable extension developer features. 
+2. Enable the check box against ‚ÄúEnable extension developer features. 
 (You may have to restart the browser to take the change effects.)
 
-![Enable extension developer features] (https://github.com/kalehrishi/edge-extension-sample/raw/master/tutorial/screenshot1.png "Edge Extension Browser Action")
+![Enable extension developer features] (https://github.com/amitshinde02/EdgeUrlShortner/blob/master/Screenshots/Shot2.png "Enable extension developer features")
 
 
  *Load Extension*
 1. Click on ... Menu Button on Right Top corner. 
 
-2. Click on Menu Item ìExtensionsî
+2. Click on Menu Item ‚ÄúExtensions‚Äù
 
 3. Click on Load Extension button. 
 
@@ -38,7 +40,8 @@ Enable extension developer features so that you can install this extension from 
   
 
 
-![Load Extension](https://github.com/kalehrishi/edge-extension-sample/raw/master/tutorial/screenshot2.png "Edge Extension Manager")
+![Load Extension](https://github.com/amitshinde02/EdgeUrlShortner/blob/master/Screenshots/Shot1.png "Load Extension")
+![Load Extension](https://github.com/amitshinde02/EdgeUrlShortner/blob/master/Screenshots/Shot3.png "Load Extension")
 
 
 *How to debug Extension*
