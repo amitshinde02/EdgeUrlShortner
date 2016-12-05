@@ -29,6 +29,7 @@ Enable extension developer features so that you can install this extension from 
 
 
  *Load Extension*
+ 
 1. Click on ... Menu Button on Right Top corner. 
 
 2. Click on Menu Item “Extensions”
@@ -38,13 +39,11 @@ Enable extension developer features so that you can install this extension from 
 4. Select the folder where you have cloned this directory. 
 
   
-
-
 ![Load Extension](https://github.com/amitshinde02/EdgeUrlShortner/blob/master/Screenshots/Shot1.png "Load Extension")
 ![Load Extension](https://github.com/amitshinde02/EdgeUrlShortner/blob/master/Screenshots/Shot3.png "Load Extension")
 
 
-*How to debug Extension*
+###**4. How to debug Extension*
 
 Please visit below url to check the details. 
 https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/guides/debugging-extensions/
