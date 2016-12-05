@@ -1,0 +1,30 @@
+body{
+	padding: 5px;
+	margin: 5px;
+	overflow: hidden;
+}
+
+
+.title{
+	width: 220px;
+	height: 30px;
+	background-color: whitesmoke;
+	margin: 1px;
+    padding-left:5px;
+    padding-top:5px;
+}
+
+.txturl
+{
+    width:200px;
+    margin-top:2px;
+}
+.copytext
+{
+    float:right;
+    width:20px;
+    height:20px;
+}
+
+
+
